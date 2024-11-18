@@ -2,7 +2,7 @@ from board import HidatoBoard
 from thinktank import iter_dyno as dyno
 
 def main():
-    print("Example 1: Solvable Board")
+    print("Example 1: Solvable")
     board1 = [
         [1, 0, 0],
         [0, 3, 5],
